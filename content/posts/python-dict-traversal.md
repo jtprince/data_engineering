@@ -22,7 +22,7 @@ Github projects sorted by most stars.
 
     ```python
     from glom import glom
-    glom.glom(data, 'foo.bar')  # -> "baz"
+    glom(data, 'foo.bar')  # -> "baz"
     ```
 
 1. [JMESPath](https://github.com/jmespath/jmespath.py) (884★)
